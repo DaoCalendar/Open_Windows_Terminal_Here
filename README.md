@@ -1,4 +1,4 @@
-# 用于 Windows 终端的安装/卸载上下文菜单项的 PowerShell 脚本
+# Open Windows Terminal Here
 
 *A project backed by [LeXtudio Inc.](https://www.lextudio.com)*
 
@@ -27,5 +27,6 @@
 
 - 当前版本仅支持 Windows 10；
 - `install.ps1` 和 `uninstall.ps1` 脚本**必须**以管理员身份运行；
+- **必须**在版本 >= 6 的 PowerShell 下执行脚本；
 - `install.ps1` 和 `uninstall.ps1` 仅操作上下文菜单项的 Windows 资源管理器设置，而不写入 Windows Terminal 的设置；
 - 从 GitHub 下载 Windows Terminal 图标 (在 `install.ps1` 中) 需要 Internet 连接，最好在运行 `install.ps1` 时，将代理软件设置为全局代理；
