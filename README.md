@@ -33,4 +33,5 @@
 
 ## 5. 补充
 
-https://github.com/lextm/windowsterminal-shell/  参考源头
+- https://github.com/lextm/windowsterminal-shell/  参考源头
+- https://zhuanlan.zhihu.com/p/137595941 文章-Windows Terminal 完美配置 PowerShell 7.1
